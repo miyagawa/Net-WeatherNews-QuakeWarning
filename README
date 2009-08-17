@@ -1,0 +1,27 @@
+This is Perl module Net::WeatherNews::QuakeWarning.
+
+INSTALLATION
+
+Net::WeatherNews::QuakeWarning installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpan Net::WeatherNews::QuakeWarning
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
+Net::WeatherNews::QuakeWarning documentation is available as in POD. So you can do:
+
+    % perldoc Net::WeatherNews::QuakeWarning
+
+to read the documentation online with your favorite pager.
+
+Tatsuhiko Miyagawa
